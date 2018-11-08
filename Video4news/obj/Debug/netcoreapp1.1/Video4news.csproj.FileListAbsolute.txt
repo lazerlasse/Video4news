@@ -1,0 +1,11 @@
+C:\OneDrive\Programmering - Privat\Video4news\Video4news\bin\Debug\netcoreapp1.1\Video4news.deps.json
+C:\OneDrive\Programmering - Privat\Video4news\Video4news\bin\Debug\netcoreapp1.1\Video4news.runtimeconfig.json
+C:\OneDrive\Programmering - Privat\Video4news\Video4news\bin\Debug\netcoreapp1.1\Video4news.runtimeconfig.dev.json
+C:\OneDrive\Programmering - Privat\Video4news\Video4news\bin\Debug\netcoreapp1.1\Video4news.dll
+C:\OneDrive\Programmering - Privat\Video4news\Video4news\bin\Debug\netcoreapp1.1\Video4news.pdb
+C:\OneDrive\Programmering - Privat\Video4news\Video4news\obj\Debug\netcoreapp1.1\Video4news.csprojAssemblyReference.cache
+C:\OneDrive\Programmering - Privat\Video4news\Video4news\obj\Debug\netcoreapp1.1\Video4news.csproj.CoreCompileInputs.cache
+C:\OneDrive\Programmering - Privat\Video4news\Video4news\obj\Debug\netcoreapp1.1\Video4news.AssemblyInfoInputs.cache
+C:\OneDrive\Programmering - Privat\Video4news\Video4news\obj\Debug\netcoreapp1.1\Video4news.AssemblyInfo.cs
+C:\OneDrive\Programmering - Privat\Video4news\Video4news\obj\Debug\netcoreapp1.1\Video4news.dll
+C:\OneDrive\Programmering - Privat\Video4news\Video4news\obj\Debug\netcoreapp1.1\Video4news.pdb
