@@ -8703,11 +8703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\OneDrive\\Programmering - Privat\\Video4news\\Video4news\\Video4news.csproj",
+      "projectUniqueName": "C:\\OneDrive\\Programmering\\Video4news\\Video4news\\Video4news.csproj",
       "projectName": "Video4news",
-      "projectPath": "C:\\OneDrive\\Programmering - Privat\\Video4news\\Video4news\\Video4news.csproj",
+      "projectPath": "C:\\OneDrive\\Programmering\\Video4news\\Video4news\\Video4news.csproj",
       "packagesPath": "C:\\Users\\lass897g\\.nuget\\packages\\",
-      "outputPath": "C:\\OneDrive\\Programmering - Privat\\Video4news\\Video4news\\obj\\",
+      "outputPath": "C:\\OneDrive\\Programmering\\Video4news\\Video4news\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lass897g\\AppData\\Roaming\\NuGet\\NuGet.Config",
